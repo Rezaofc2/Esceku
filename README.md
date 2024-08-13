@@ -20,10 +20,8 @@
 ## MY GROUPS & NUMBERS
 - My Number [`Contact me`](https://wa.me/6289606790112)
 
-- My Bot Group [`Join`]([https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s](https://chat.whatsapp.com/DLPvZVjQIi42UzauaaUhNk))
-
-- My Genshin impact Group [`Join`](https://chat.whatsapp.com/LZCnnSQFPkF3C6zrDcH5n8)
-
+- My Bot Group [`Join`](https://chat.whatsapp.com/DLPvZVjQIi42UzauaaUhNk)
+  
 ## FOR WINDOWS/VPS/RDP USERS
 
 * Unduh & Instal Git [`Click here`](https://git-scm.com/downloads)
