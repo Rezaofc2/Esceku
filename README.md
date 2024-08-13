@@ -1,4 +1,4 @@
-## YULA-MD BOT SCRIPT INFORMATION
+## RysBot-MD BOT SCRIPT INFORMATION
 
 <div id="header" align="center">
   <img src="https://github.com/XM4ZE/DATABASE/blob/master/wallpaper/3d2470d056100ddb151b3bb30f9ec277_2149578633960802861.gif?raw=true" width="200" height="200"/>
@@ -17,12 +17,10 @@
   
 - Botcahx API [`RestApi`](https://api.botcahx.eu.org) ```Must Use```
 
-- Itsrose API [`RestApi`](https://docs.itsrose.life) ```Must Use```
-
 ## MY GROUPS & NUMBERS
-- My Number [`Contact me`](https://wa.me/6281283516246)
+- My Number [`Contact me`](https://wa.me/6289606790112)
 
-- My Bot Group [`Join`](https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s)
+- My Bot Group [`Join`]([https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s](https://chat.whatsapp.com/DLPvZVjQIi42UzauaaUhNk))
 
 - My Genshin impact Group [`Join`](https://chat.whatsapp.com/LZCnnSQFPkF3C6zrDcH5n8)
 
